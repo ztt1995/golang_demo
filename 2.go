@@ -11,7 +11,7 @@ func getUserInfo() (string, int) {
 	return name, age
 }
 
-func main() {
+func func2() {
 
 	fmt.Print(globalV)
 
