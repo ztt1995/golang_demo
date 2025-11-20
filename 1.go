@@ -4,7 +4,7 @@ package main
 
 import "fmt"
 
-func func1() {
+func main() {
 	// 换行输出
 	//  fmt.Println("Hello, World!")
 	// //  不换行输出

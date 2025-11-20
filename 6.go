@@ -62,6 +62,4 @@ func main() {
 	num = strings.LastIndex(str8, str2)
 	fmt.Println(num)
 
-	func1()
-
 }
